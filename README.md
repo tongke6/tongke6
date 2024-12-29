@@ -1,0 +1,19 @@
+### Hi there 👋
+
+<!---
+
+- 👋 Hi, I’m @tongke6
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
+
+<!---
+tongke6/tongke6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+![tongke6's Stats](https://github-readme-stats.vercel.app/api?username=tongke6&theme=dark&show_icons=true&hide_border=false&count_private=true)
